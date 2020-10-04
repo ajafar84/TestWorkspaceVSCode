@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {},
+  "extensions": {
+    "recommendations": [
+      "esbenp.prettier-vscode",
+      "ms-vscode.vscode-typescript-tslint-plugin",
+      "johnpapa.angular-essentials",
+      "rafaelsalguero.csharp2ts",
+      "jmrog.vscode-nuget-package-manager"
+    ]
+  }
+}

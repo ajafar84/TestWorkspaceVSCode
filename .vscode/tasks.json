@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Git Checkout",
+      "command": "git checkout development",
+      "type": "shell"
+    },
+    {
+      "label": "Git Pull",
+      "command": "git checkout development",
+      "type": "shell"
+    },
+    {
+      "label": "Run Development",
+      "command": "ng s -o",
+      "type": "shell"
+    }
+  ]
+}
